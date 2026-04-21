@@ -82,7 +82,7 @@ int insert(struct Numbers *ns, size_t index, int n) {
 void displayItems(struct Numbers ns) {
   if(ns.size == 0) {
     printf("None.\n");
-    return 1;
+    return;
   }
 
   for(size_t i = 0; i < ns.size; i++) {

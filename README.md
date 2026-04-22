@@ -1,1 +1,1 @@
-This is some of the code i write starting my low level journey.
+This is some of the code i write to learn low level programming
